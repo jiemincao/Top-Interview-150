@@ -1,1 +1,2 @@
 # Top-Interview-150
+Set a challenge for yourself to complete the LeetCode Top Interview 150 problems using C++. This will not only enhance your programming skills but also help you become more familiar with the syntax and features of the C++ language. Through this process, you will develop problem-solving thinking for complex challenges while improving your understanding of algorithms and data structures.
